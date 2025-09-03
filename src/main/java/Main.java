@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Post post = new Post();
         post.birthday.day = 14;
-        post.birthday.month = "September";
+        post.birthday.month = 9;
         post.birthday.year = 1990;
         post.name = "Vasya";
         post.patronymic = "Petrovych";
